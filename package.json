@@ -20,5 +20,11 @@
     "url": "https://github.com/overnumerousness/ACHalloweenBot/issues"
   },
   "homepage": "https://github.com/overnumerousness/ACHalloweenBot#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.11.0",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  }
 }
