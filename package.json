@@ -1,0 +1,23 @@
+{
+  "name": "achalloweenbot",
+  "version": "1.0.0",
+  "description": "Trying to emulate Discord's halloween bot but with Animal Crossing villagers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overnumerousness/ACHalloweenBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Square",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overnumerousness/ACHalloweenBot/issues"
+  },
+  "homepage": "https://github.com/overnumerousness/ACHalloweenBot#readme"
+}
